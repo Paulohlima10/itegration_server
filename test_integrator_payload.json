@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-10-03T12:27:32",
+  "schema": {
+    "tables": {
+      "cadastro": {
+        "columns": [
+          {"primary_key": true, "name": "id", "type": "INT"},
+          {"name": "nome", "type": "VARCHAR(100)", "nullable": false}
+        ]
+      },
+      "clientes": {
+        "columns": [
+          {"name": "id", "type": "INT", "primary_key": true},
+          {"name": "email", "type": "VARCHAR(255)", "nullable": false}
+        ]
+      },
+      "produtos": {
+        "columns": [
+          {"name": "id", "type": "INT", "primary_key": true},
+          {"name": "nome", "type": "VARCHAR(100)"},
+          {"name": "preco", "type": "DECIMAL(10,2)"}
+        ]
+      }
+    },
+    "database_name": "teste_db",
+    "total_tables": 3
+  },
+  "source": "mysql_integrator",
+  "empresa_id": "3e1a0646-0b39-4ea4-9f49-bf7c0cf34ac2"
+}

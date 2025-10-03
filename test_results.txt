@@ -1,0 +1,16 @@
+RESULTADOS DOS TESTES
+==================================================
+Data/Hora: 2025-10-02 15:39:22
+
+health_check: FALHOU
+new_table_reception: PASSOU
+existing_table_reception: PASSOU
+new_columns_addition: FALHOU
+webhook_schema: PASSOU
+company_not_found: PASSOU
+invalid_config: PASSOU
+connection_failure: FALHOU
+rate_limiting: PASSOU
+
+Resultado: 6/9 testes passaram
+Taxa de sucesso: 66.7%

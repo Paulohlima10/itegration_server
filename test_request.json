@@ -1,0 +1,10 @@
+{
+  "table_name": "usuarios",
+  "data": [
+    {
+      "nome": "João Silva",
+      "email": "joao@teste.com",
+      "idade": 30
+    }
+  ]
+}

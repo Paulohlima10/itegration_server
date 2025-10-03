@@ -1,0 +1,8 @@
+{
+  "test_company_001": {
+    "DB_URL": "https://test-company.supabase.co",
+    "DB_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.test-token",
+    "COMPANY_NAME": "Empresa de Teste 001",
+    "ACTIVE": "true"
+  }
+}
