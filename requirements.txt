@@ -13,7 +13,7 @@ psycopg2-binary==2.9.9
 asyncpg==0.29.0
 
 # HTTP requests
-httpx==0.25.2
+httpx>=0.24.0,<0.25.0
 requests==2.31.0
 
 # Async support
